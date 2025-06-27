@@ -30,8 +30,8 @@ Garden and Room triangle splatting 3D mesh files can be downloaded at the projec
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/triangle-splatting-engine.git
-   cd triangle-splatting-engine
+   git clone https://github.com/your-username/triangle-splatting-viewer.git
+   cd triangle-splatting-viewer
 
    Install dependencies:
 
