@@ -57,7 +57,7 @@ Once loaded, navigate the 3D mesh using the controls listed above.
 
 - engine.py: Main script containing the rendering engine, shaders, and .off parser.
 
-- garden.off: Example mesh file (not included; provide your own or request a sample).
+- garden.off: Example mesh file (not included; available on Triangle Splatting Website).
 
 - LICENSE: Copyright notice for this project.
 
