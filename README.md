@@ -1,4 +1,4 @@
-# Triangle Splatting Engine
+# Triangle Splatting Viewer / Engine / Browser
 
 A real-time 3D rendering engine built with Python, Pygame, and OpenGL to navigate Triangle Splatting assets in the `.off` file format. The engine features a loading progress bar and supports interactive camera navigation for exploring 3D meshes, with a pre-configured orientation for the `garden.off` mesh.
 
