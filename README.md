@@ -78,7 +78,7 @@ This project uses the following third-party libraries, each with its own license
 
 - NumPy: Licensed under the BSD 3-Clause License. Copyright © 2005-2025 NumPy Developers.
 
-The full license texts for these libraries can be found in their respective repositories or documentation. If distributing this project, include these license notices as required.
+The full license texts for these libraries can be found in their respective repositories or documentation.
 
 ## License
 
